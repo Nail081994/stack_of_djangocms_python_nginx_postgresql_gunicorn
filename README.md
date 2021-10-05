@@ -1,4 +1,4 @@
-## Ниже описана инструкция по деплою стека "Ubuntu 20.04 LTS, nginx, python>=3.6, gunicorn, postgresql>=11" с приложением Django CMS.
+## djangocms_LEMP
 
 ### Для начала обновляем репозитории:
 > sudo apt update
